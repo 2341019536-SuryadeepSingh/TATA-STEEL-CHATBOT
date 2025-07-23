@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+Pillow
+PyMuPDF
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
